@@ -1,0 +1,14 @@
+D:\pantat\Reto\Lab02\bin\Debug\net10.0\Lab02.exe
+D:\pantat\Reto\Lab02\bin\Debug\net10.0\Lab02.deps.json
+D:\pantat\Reto\Lab02\bin\Debug\net10.0\Lab02.runtimeconfig.json
+D:\pantat\Reto\Lab02\bin\Debug\net10.0\Lab02.dll
+D:\pantat\Reto\Lab02\bin\Debug\net10.0\Lab02.pdb
+D:\pantat\Reto\Lab02\obj\Debug\net10.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\pantat\Reto\Lab02\obj\Debug\net10.0\Lab02.AssemblyInfoInputs.cache
+D:\pantat\Reto\Lab02\obj\Debug\net10.0\Lab02.AssemblyInfo.cs
+D:\pantat\Reto\Lab02\obj\Debug\net10.0\Lab02.csproj.CoreCompileInputs.cache
+D:\pantat\Reto\Lab02\obj\Debug\net10.0\Lab02.dll
+D:\pantat\Reto\Lab02\obj\Debug\net10.0\refint\Lab02.dll
+D:\pantat\Reto\Lab02\obj\Debug\net10.0\Lab02.pdb
+D:\pantat\Reto\Lab02\obj\Debug\net10.0\Lab02.genruntimeconfig.cache
+D:\pantat\Reto\Lab02\obj\Debug\net10.0\ref\Lab02.dll
