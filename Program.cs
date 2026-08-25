@@ -25,6 +25,7 @@
             int hpPercent = currentHp * 100 / maxHp;
             Console.WriteLine($"HP Percent: {hpPercent}%");
             Console.WriteLine();
+            Console.WriteLine(
         }
     }
 }
