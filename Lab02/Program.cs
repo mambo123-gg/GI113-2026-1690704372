@@ -53,6 +53,7 @@ namespace Lab02
             float attackPower3 = 70.5f;
             double critMultiplier3 = 10.5;
             bool isSwordman = true;
+            Console.WriteLine("===== Hero 2 =====");
             Console.WriteLine($"Name: {swordman}");
             Console.WriteLine($"Rank: {ranks2}");
             Console.WriteLine($"HP: {maxHp2}");
