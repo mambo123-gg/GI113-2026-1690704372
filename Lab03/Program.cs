@@ -29,6 +29,8 @@
             Console.WriteLine($"Current HP (as double): {currentHpAsDouble}");
 
             double hpPercentage = currentHpAsDouble * 100 / maxHp;
+            Console.WriteLine($"HP Percentage: {hpPercentage}%");
+            
         }
     }
 }
