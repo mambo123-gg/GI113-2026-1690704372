@@ -40,19 +40,19 @@ namespace Lab02
             hpPercent = currentHp * 100 / maxHp;
             Console.WriteLine($"HP Percent: {hpPercent}%");
             // Lab02 Part B
-            string arbriter = "hermes";
+            string arbiter = "hermes";
             char ranks = 'A';
             int maxHps = 400;
             float attackPower2 = 25.5f;
             double critMultiplier2 = 5.5;
-            bool isArbriter = true;
+            bool isArbiter = true;
             Console.WriteLine("===== Hero 1 =====");
-            Console.WriteLine($"Name: {arbriter}");
+            Console.WriteLine($"Name: {arbiter}");
             Console.WriteLine($"Rank: {ranks}");
             Console.WriteLine($"HP: {maxHps}");
             Console.WriteLine($"Attack Power: {attackPower2}");
             Console.WriteLine($"Crit Multiplier:{critMultiplier2}");
-            Console.WriteLine($"IsArbriter: {isArbriter}");
+            Console.WriteLine($"IsArbiter: {isArbiter}");
             string swordman = "Aime";
             char ranks2 = 'A';
             int maxHp2 = 250;
@@ -78,7 +78,7 @@ namespace Lab02
             Console.WriteLine($"HP: {maxHp3}");
             Console.WriteLine($"Attack Power: {attackPower4}");
             Console.WriteLine($"Crit Multiplier:{critMultiplier4}");
-            Console.WriteLine($"IsSwordman: {isSongseeker}");
+            Console.WriteLine($"IsSongseeker: {isSongseeker}");
             string Echoproxy = "Ren";
             char ranks4 = 'B';
             int maxHp4 = 175;
