@@ -23,6 +23,12 @@
             $"\nAttack Power: {attackPower}" +
             $"\nCritical Multiplier: {critMultiplier}" +
             $"\nIs Boss: {isBoss}");
+
+            Console.WriteLine("\n----- Implicit Conversion: HP as double -----");
+            double currentHpAsDouble = currentHp;
+            Console.WriteLine($"Current HP (as double): {currentHpAsDouble}");
+
+            double hpPercentage = currentHpAsDouble * 100 / maxHp;
         }
     }
 }
