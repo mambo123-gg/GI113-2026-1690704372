@@ -66,6 +66,7 @@ namespace Lab02
             float attackPower4 = 30.5f;
             double critMultiplier4 = 5.5;
             bool isSongseeker = true;
+            Console.WriteLine("===== Hero 3 =====");
             Console.WriteLine($"Name: {songseeker}");
             Console.WriteLine($"Rank: {ranks3}");
             Console.WriteLine($"HP: {maxHp3}");
@@ -78,6 +79,7 @@ namespace Lab02
             float attackPower5 = 80.5f;
             double critMultiplier5 = 7.5;
             bool isEchoproxy = true;
+            Console.WriteLine("===== Hero 4 =====");
             Console.WriteLine($"Name: {Echoproxy}");
             Console.WriteLine($"Rank: {ranks4}");
             Console.WriteLine($"HP: {maxHp4}");
