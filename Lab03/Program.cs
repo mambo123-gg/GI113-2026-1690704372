@@ -1,4 +1,6 @@
-﻿namespace Lab03
+﻿using System.Runtime.CompilerServices;
+
+namespace Lab03
 {
     internal class Program
     {
@@ -25,11 +27,16 @@
             $"\nIs Boss: {isBoss}");
 
             Console.WriteLine("\n----- Implicit Conversion: HP as double -----");
-            double currentHpAsDouble = currentHp;
+            double currentHpAsDouble = (double)currentHp;
             Console.WriteLine($"Current HP (as double): {currentHpAsDouble}");
 
             double hpPercentage = currentHpAsDouble * 100 / maxHp;
             Console.WriteLine($"HP Percentage: {hpPercentage}%");
+            Console.WriteLine();
+            Console.WriteLine("\n-----IsExplicit Case: Attack Power -> Display Int -----");
+            int attackDisplay = (int)attackPower;
+            Console.WriteLine($"Attack Power (as int): {attackDisplay}");
+            Console.WriteLine($"AttackPower Power (int cast): {attackDisplay}");
             
         }
     }
