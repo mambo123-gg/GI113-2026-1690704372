@@ -27,7 +27,7 @@ namespace Lab03
             $"\nIs Boss: {isBoss}");
 
             Console.WriteLine("\n----- Implicit Conversion: HP as double -----");
-            double currentHpAsDouble = (double)currentHp;
+            double currentHpAsDouble = currentHp;
             Console.WriteLine($"Current HP (as double): {currentHpAsDouble}");
 
             double hpPercentage = currentHpAsDouble * 100 / maxHp;
@@ -37,7 +37,16 @@ namespace Lab03
             int attackDisplay = (int)attackPower;
             Console.WriteLine($"Attack Power (as int): {attackDisplay}");
             Console.WriteLine($"AttackPower Power (int cast): {attackDisplay}");
-            
+            Console.WriteLine();
+            Console.WriteLine("\n----- Cast vs Convert: Crit Multiplier ----- ");
+            int critCast = (int)critMultiplier;
+            int critConvert = (int)Convert.ToInt32(critMultiplier);
+            Console.WriteLine($"critMultiplier (int cast): {critCast}");
+            Console.WriteLine($"critMultiplier (Convert rounded): {critConvert}");
+
+
+
+
         }
     }
 }
