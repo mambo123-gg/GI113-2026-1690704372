@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Student ID :1690704372
+ * Name       :pantat tesngamtuan
+ * Section    :129D
+ * No.        :
+ * Course     : GI113 Computer Programming (GI)
+ */S
+using System.Collections;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace Lab05
