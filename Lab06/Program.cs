@@ -4,20 +4,20 @@
     {
         static void Main(string[] args)
         {
-            int level = 7;
-            if (level >= 5)
-            {
-                Console.WriteLine("The door opens.");
+            
 
-            else if (level >= 10 )
-            {
-                Console.WriteLine("Boss floor unlocked.");
+                int normalattack = 10;
+                int criticalattack = 20;
+                int potionhpheal = 30;
+                int monsterhp = 100;
+                int herohp = 100;
+                
+                Console.WriteLine("====Game title ethernie====");
+
+                Console.WriteLine("Action1 normalattack.");
+                Console.WriteLine("Action2 criticalattack.");
+                Console.WriteLine("Action3 Drink potionhpheal.");
+
             }
-            else
-            {
-                Console.WriteLine("The door stays shut.");
-            }
-            Console.WriteLine("Hello, World!");
-        }
     }
 }
