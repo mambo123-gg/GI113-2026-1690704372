@@ -1,4 +1,11 @@
-﻿using System.Runtime.CompilerServices;
+﻿/*
+ * Student ID :1690704372
+ * Name       :pantat tesngamtuan
+ * Section    :129D
+ * No.        :
+ * Course     : GI113 Computer Programming (GI)
+ */
+using System.Runtime.CompilerServices;
 
 namespace Lab03
 {
