@@ -1,4 +1,11 @@
-﻿namespace lab07
+﻿/*
+ * Student ID :1690704372
+ * Name       :pantat tesngamtuan
+ * Section    :129D
+ * No.        :
+ * Course     : GI113 Computer Programming (GI)
+ */
+namespace lab07
 {
     internal class Program
     {
